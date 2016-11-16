@@ -1,0 +1,5 @@
+Output should be F = (a'b) + (bc')
+.i 3
+.m
+2 6 3
+.d 

@@ -1,0 +1,6 @@
+Output should be F = (b'c'd') + (a'bd) + (abcd')
+.i 4
+.m
+14 0 5 7 8
+.d 
+13

@@ -1,0 +1,5 @@
+Output should be F = (b'cd'e) + (a'b'cde') + (abcde)
+.i 5
+.m
+21 31 5 6
+.d 
