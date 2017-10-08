@@ -1,4 +1,4 @@
-#quine_mccluskey_solver
+# Quine-Mccluskey Solver
 
 Minimizes a boolean function using Quine-McCluskey algorithm
 
