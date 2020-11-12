@@ -1,0 +1,8 @@
+# IDE
+.idea
+
+# Output Files
+out.dat
+
+# Executable
+quine_mccluskey_solver

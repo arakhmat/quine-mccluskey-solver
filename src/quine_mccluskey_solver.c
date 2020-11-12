@@ -738,7 +738,6 @@ void saveFile(char* filename, char** primeImplicant, int* onSet, int* dontCare,
     int isOne = 0;
     for (i = 0; i < numImpl; i++) {
         isOne = 0;
-        space = 0;
         for (j = 0; j < numVar; j++) {
             if (primeImplicant[i][j] == '1') {
                 literal[0] = 'a' + j;
@@ -750,7 +749,6 @@ void saveFile(char* filename, char** primeImplicant, int* onSet, int* dontCare,
                 literal[2] = '\0';
                 strcat(line, literal);
             } else {
-                space = 0;
                 isOne++;
                 continue;
             }

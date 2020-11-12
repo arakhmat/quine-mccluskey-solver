@@ -13,6 +13,7 @@ Look at the examples in the data/ to see the format of the input file.
 
 In the root directory:<br />
 ```bash
+  mkdir --parents bin
   make
   bin/quine_mccluskey_solver <input_file>
 ```
